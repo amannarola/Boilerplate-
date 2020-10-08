@@ -1,0 +1,13 @@
+{
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true,
+  "[javascript]": {
+    "editor.formatOnSave": true
+  },
+  "files.exclude": {
+    "**/dist": true,
+    "**/node_modules": true
+  },
+  "prettier.jsxSingleQuote": true,
+  "prettier.singleQuote": true
+}
